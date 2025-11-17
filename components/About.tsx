@@ -12,12 +12,12 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-700 dark:text-gray-300">
-              I'm a passionate full-stack developer with a love for creating elegant solutions
+              I&apos;m a passionate full-stack developer with a love for creating elegant solutions
               to complex problems. With experience in modern web technologies, I specialize in
               building scalable and performant applications.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300">
-              When I'm not coding, you can find me exploring new technologies, contributing to
+              When I&apos;m not coding, you can find me exploring new technologies, contributing to
               open-source projects, or sharing knowledge with the developer community.
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
