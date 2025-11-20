@@ -4,13 +4,13 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
         <div className="space-y-6">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white">
-            Hi, I'm <span className="text-blue-600 dark:text-blue-400">Your Name</span>
+            Hi, I&apos;m <span className="text-blue-600 dark:text-blue-400">Your Name</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-700 dark:text-gray-300 max-w-3xl mx-auto">
             Full Stack Developer | Designer | Problem Solver
           </p>
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-            I build exceptional digital experiences that make people's lives easier.
+            I build exceptional digital experiences that make people&apos;s lives easier.
             Passionate about creating beautiful, functional, and user-friendly applications.
           </p>
           <div className="flex flex-wrap gap-4 justify-center pt-8">
